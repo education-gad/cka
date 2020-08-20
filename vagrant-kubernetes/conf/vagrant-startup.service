@@ -1,9 +1,0 @@
-[Unit]
-Description=Fix various settings on start
-After=network.target
-
-[Service]
-ExecStart=/usr/bin/vagrant-startup
-
-[Install]
-WantedBy=multi-user.target
