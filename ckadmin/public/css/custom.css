@@ -1,0 +1,26 @@
+.section-subtitle{
+	display: inline-block;
+}
+.btn-right-side{
+	margin-bottom: 10px;
+}
+.fa-x{
+	font-size: 20px;
+}
+.delete-form{
+	display: inline-block;
+	position: absolute;
+	margin-left: 1%;
+}
+.delete-form>.btn-xs{
+	font-size: 10px;
+	color: white;
+	background-color: #189279;
+}
+.delete-form>.btn-xs:hover,
+.delete-form>.btn-xs:focus{
+	background-color: #23d4af;
+}
+.preview-div{
+	background-color: #ddd;
+}
